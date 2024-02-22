@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Take a look also:
+https://gist.github.com/DavidePrette/
 <!--
 **DavidePrette/DavidePrette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
